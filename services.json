@@ -1,0 +1,83 @@
+[
+  {
+    "id": "s001",
+    "category": "🖨 کپی و پرینت",
+    "name": "پرینت سیاه‌وسفید A4",
+    "description": "پرینت لیزری با کیفیت بالا، هر برگ",
+    "price": 2000,
+    "needs_file": true,
+    "active": true
+  },
+  {
+    "id": "s002",
+    "category": "🖨 کپی و پرینت",
+    "name": "پرینت رنگی A4",
+    "description": "پرینت رنگی با جوهر اصل، هر برگ",
+    "price": 8000,
+    "needs_file": true,
+    "active": true
+  },
+  {
+    "id": "s003",
+    "category": "🖨 کپی و پرینت",
+    "name": "کپی سیاه‌وسفید",
+    "description": "کپی از مدارک، هر برگ",
+    "price": 1500,
+    "needs_file": false,
+    "active": true
+  },
+  {
+    "id": "s004",
+    "category": "🎨 چاپ",
+    "name": "چاپ بنر (هر متر مربع)",
+    "description": "چاپ بنر فلکس با کیفیت HD",
+    "price": 150000,
+    "needs_file": true,
+    "active": true
+  },
+  {
+    "id": "s005",
+    "category": "🎨 چاپ",
+    "name": "چاپ کارت ویزیت (۱۰۰ عدد)",
+    "description": "چاپ دو رو، گلاسه ۳۰۰ گرم",
+    "price": 250000,
+    "needs_file": true,
+    "active": true
+  },
+  {
+    "id": "s006",
+    "category": "🎨 چاپ",
+    "name": "چاپ عکس (۱۰×۱۵)",
+    "description": "چاپ عکس با کیفیت عکاسی",
+    "price": 15000,
+    "needs_file": true,
+    "active": true
+  },
+  {
+    "id": "s007",
+    "category": "✏️ لوازم‌التحریر",
+    "name": "خرید لوازم‌التحریر",
+    "description": "خودکار، دفتر، پوشه، ماژیک و ...",
+    "price": 50000,
+    "needs_file": false,
+    "active": true
+  },
+  {
+    "id": "s008",
+    "category": "💻 لوازم کامپیوتر",
+    "name": "خرید لوازم کامپیوتر",
+    "description": "کابل، فلش، هارد، ماوس، کیبورد و ...",
+    "price": 100000,
+    "needs_file": false,
+    "active": true
+  },
+  {
+    "id": "s009",
+    "category": "📱 لوازم موبایل",
+    "name": "خرید لوازم موبایل",
+    "description": "شارژر، کابل، کاور، محافظ صفحه و ...",
+    "price": 80000,
+    "needs_file": false,
+    "active": true
+  }
+]
